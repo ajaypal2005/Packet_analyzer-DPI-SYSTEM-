@@ -1,0 +1,12 @@
+out/
+build/
+.vs/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.pcap
+*.pcapng
+*.log
+CMakeLists.txt
+WINDOWS_SETUP.md
